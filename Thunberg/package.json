@@ -1,0 +1,17 @@
+{
+  "name": "thunberg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Thunberg.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Montria Brown",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "express": "^4.17.2",
+    "uuid": "^8.3.2"
+  }
+}
